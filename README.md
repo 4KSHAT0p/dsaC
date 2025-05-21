@@ -4,4 +4,4 @@ This repo contains ***my own implementations*** of fundamental data structures a
 
 It also contains implementations of OS algorithms and a basic project of windows API.
 
-*Note* : please give proper credit if using my work.
+*Note* : please give proper credit if you are using my work.
